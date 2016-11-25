@@ -104,7 +104,6 @@ for i = 1:length(theta0_vals)
     end
 end
 
-
 % Because of the way meshgrids work in the surf command, we need to 
 % transpose J_vals before calling surf, or else the axes will be flipped
 J_vals = J_vals';
