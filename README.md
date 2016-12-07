@@ -1,4 +1,5 @@
 #### Machine Learning - Stanford - Andrew Ng - Coursera
+#### I completed the machine learning class on Coursera, which is taught by Andrew Ng.
 #### https://www.coursera.org/learn/machine-learning/home/welcome
 
 
